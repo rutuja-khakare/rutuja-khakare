@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rutuja Khakare</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2F2d20af60d709805c55fd784ca7cba4b9&psig=AOvVaw2jWh_iGNCQ7D7EM-H12im6&ust=1644167799929000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIick8KI6fUCFQAAAAAdAAAAABAD">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutuja-khakare&label=Profile%20views&color=0e75b6&style=flat" alt="rutuja-khakare" /> </p>
 
